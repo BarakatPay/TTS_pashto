@@ -160,11 +160,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ## Next Steps & Recommendations
 
-- **Pick a single backbone** (e.g., SpeechT5) and establish a minimal, reproducible fine-tuning recipe.  
-- **Align data pipeline**: Verify mel spectrogram scales and feature-normalization match vocoder specs.  
-- **Controlled freezing**: Start by freezing encoder layers, then gradually unfreeze decoder blocks.  
-- **Add duration predictor or guided-attention**: Consider FastSpeech2 or Tacotron2 for robust alignment.  
-- **In-notebook monitoring**: Log loss curves and sample audio at checkpoints for rapid iteration.  
+We are now trying VITS TTS.
 
 ---
 
