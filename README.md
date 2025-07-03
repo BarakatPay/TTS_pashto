@@ -18,7 +18,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 1. `what.ipynb`
+### 1. `try_1.ipynb`
 
 - **Model**  
   - Hugging Face **Indic-Parler-TTS** checkpoint  
