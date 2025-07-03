@@ -14,7 +14,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 6. [try_6.ipynb](#6-try_6ipynb)  
 7. [try_7.ipynb](#7-try_7ipynb)  
 8. [try_8.ipynb](#8-try_8ipynb)  
-9. [try_9.ipynb](#9-try_9ipynb) *(Ongoing)*  
+9. [try_9.ipynb](#9-try_9ipynb)
 
 ---
 
@@ -145,7 +145,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 9. `try_9.ipynb`  *(Ongoing)*
+### 9. `try_9.ipynb`
 
 - **Model**  
   - Coqui TTS via external scripts (`train_pashto_tts.py`, `_fixed`, `_safe`)  
