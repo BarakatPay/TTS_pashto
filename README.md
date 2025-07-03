@@ -7,14 +7,14 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 ## Table of Contents
 
 1. [try_1.ipynb](#1-try_1ipynb)  
-2. [tts_training_pashto.ipynb](#2-tts_training_pashtoipynb)  
-3. [Chinese (1) (1).ipynb](#3-chinese-1-1ipynb)  
-4. [Chinese (1).ipynb](#4-chinese-1ipynb)  
-5. [lasttry.ipynb](#5-lasttryipynb)  
-6. [helloworld.ipynb](#6-helloworldipynb)  
-7. [KP.ipynb](#7-kpipynb)  
-8. [lol.ipynb](#8-lolipynb)  
-9. [mariah.ipynb](#9-mariahipynb) *(Ongoing)*  
+2. [try_2.ipynb](#2-try_2ipynb)  
+3. [try_3.ipynb](#3-try_3ipynb)  
+4. [try_4.ipynb](#4-try_4ipynb)  
+5. [try_5.ipynb](#5-try_5ipynb)  
+6. [try_6.ipynb](#6-try_6ipynb)  
+7. [try_7.ipynb](#7-try_7ipynb)  
+8. [try_8.ipynb](#8-try_8ipynb)  
+9. [try_9.ipynb](#9-try_9ipynb) *(Ongoing)*  
 
 ---
 
@@ -37,7 +37,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 2. `tts_training_pashto.ipynb`
+### 2. `try_2.ipynb`
 
 - **Model**  
   - Microsoft **SpeechT5** TTS  
@@ -54,7 +54,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 3. `Chinese (1) (1).ipynb`
+### 3. `try_3.ipynb`
 
 - **Model**  
   - SpeechT5 backbone, loaded from local Pashto checkpoint  
@@ -72,7 +72,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 4. `Chinese (1).ipynb`
+### 4. `try_4.ipynb`
 
 - **Model**  
   - Microsoft SpeechT5 + Hi-Fi GAN vocoder  
@@ -90,7 +90,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 5. `lasttry.ipynb`
+### 5. `try_5.ipynb`
 
 - **Model**  
   - Fully **custom** `PashtoTTSModel` (no pretraining)  
@@ -104,7 +104,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 6. `helloworld.ipynb`
+### 6. `try_6.ipynb`
 
 - **Model**  
   - Microsoft SpeechT5 with **progressive fine-tuning** & **hybrid decoder**  
@@ -119,7 +119,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 7. `KP.ipynb`
+### 7. `try_7.ipynb`
 
 - **Model**  
   - Default Coqui TTS API demo (English Tacotron2-DDC)  
@@ -131,7 +131,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 8. `lol.ipynb`
+### 8. `try_8.ipynb`
 
 - **Model**  
   - Fully **custom** `SimpleTTSModel` (LSTM encoder + attention + LSTM decoder)  
@@ -145,7 +145,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ---
 
-### 9. `mariah.ipynb`  *(Ongoing)*
+### 9. `try_9.ipynb`  *(Ongoing)*
 
 - **Model**  
   - Coqui TTS via external scripts (`train_pashto_tts.py`, `_fixed`, `_safe`)  
@@ -170,4 +170,4 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 **Credits & Licensing**  
 - Uses open-source TTS libraries: Hugging Face Transformers, Coqui TTS, PyTorch.  
-- Please cite respective model papers and repositories when reusing these notebooks.  
+
