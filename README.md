@@ -6,7 +6,7 @@ This repository collects a series of Jupyter notebooks and training scripts wher
 
 ## Table of Contents
 
-1. [what.ipynb](#1-whatipynb)  
+1. [try_1.ipynb](#1-try_1ipynb)  
 2. [tts_training_pashto.ipynb](#2-tts_training_pashtoipynb)  
 3. [Chinese (1) (1).ipynb](#3-chinese-1-1ipynb)  
 4. [Chinese (1).ipynb](#4-chinese-1ipynb)  
